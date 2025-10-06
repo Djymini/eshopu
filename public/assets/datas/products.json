@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79vq.webp",
+    "imageDescription": "Marvel's Spider-Man 2 image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Marvel's Spider-Man 2",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 69.99,
+    "discount": 0.0,
+    "stockNumber": 50
+  },
+  {
+    "id": 2,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Elden Ring",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 59.99,
+    "discount": 50,
+    "stockNumber": 0
+  },
+  {
+    "id": 3,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s5v.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "God of War Ragnarök",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 69.99,
+    "discount": 0.0,
+    "stockNumber": 45
+  },
+  {
+    "id": 4,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gvu.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Horizon Forbidden West",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 59.99,
+    "discount": 0.0,
+    "stockNumber": 60
+  },
+  {
+    "id": 5,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w3k.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Final Fantasy XVI",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 69.99,
+    "discount": 0.0,
+    "stockNumber": 70
+  },
+  {
+    "id": 6,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bo0.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Resident Evil 4 Remake",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 59.99,
+    "discount": 25,
+    "stockNumber": 33
+  },
+  {
+    "id": 7,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmg.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Zelda: Tears of the Kingdom",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 69.99,
+    "discount": 0.0,
+    "stockNumber": 40
+  },
+  {
+    "id": 8,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vv.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Starfield",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 69.99,
+    "discount": 0.0,
+    "stockNumber": 100
+  },
+  {
+    "id": 9,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co670h.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Baldur's Gate 3",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 59.99,
+    "discount": 0.0,
+    "stockNumber": 60
+  },
+  {
+    "id": 10,
+    "imagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co57sj.webp",
+    "imageDescription": "product image",
+    "bannerPath": "https://images.igdb.com/igdb/image/upload/t_720p/scfeho.webp",
+    "bannerDescription": "Marvel's Spider-Man 2 banner",
+    "title": "Assassin’s Creed Mirage",
+    "resume": "Marvel's Spider-Man 2 is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "price": 49.99,
+    "discount": 0.0,
+    "stockNumber": 120
+  }
+]
