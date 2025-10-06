@@ -1,0 +1,7 @@
+<div class="card">
+  <p-carousel [value]="products" [numVisible]="2" [numScroll]="1" [circular]="true" [responsiveOptions]="responsiveOptions" autoplayInterval="5000">
+    <ng-template let-product #item>
+      <app-carousel-home-card [product]="product"></app-carousel-home-card>
+    </ng-template>
+  </p-carousel>
+</div>
