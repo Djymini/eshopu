@@ -13,9 +13,9 @@ import {Button, ButtonDirective, ButtonLabel} from 'primeng/button';
 export class CarouselHomeCard implements OnInit {
   @Input() product: Product = {
     id: 0,
-    imagePath: "/assets/images/image_placeholder.png",
+    imagePath: "/assets/images/placeholder-product.png",
     imageDescription: "Product image",
-    bannerPath: "/assets/images/image_placeholder.png",
+    bannerPath: "/assets/images/placeholder-product.png",
     bannerDescription: "Product description",
     title: "",
     resume: "",
@@ -24,7 +24,7 @@ export class CarouselHomeCard implements OnInit {
     stockNumber: 0,
   };
 
-  imagePath: string = 'assets/images/placeholder-carousel-card.jpg';
+  imagePath: string = 'assets/images/placeholder-banner-carousel.jpg';
   imageDescription: string = 'Image description';
   shortPresentation: string = 'Presentation';
 

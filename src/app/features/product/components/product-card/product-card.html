@@ -1,0 +1,19 @@
+<div class="product-card" >
+  @if (product.discount > 0) {
+    <p class="promotion-indicator">-{{product.discount}}%</p>
+  }
+  <a class="image-container" [routerLink]="['/products',product.id]">
+    <img [ngSrc]="product.imagePath" [alt]="product.imagePath" width="180" height="230">
+  </a>
+
+  <div class="title-container">
+    <h3>{{ product.title }}</h3>
+    <app-stock-indicator [stockValue]="product.stockNumber"></app-stock-indicator>
+  </div>
+
+  <app-price-indicator [price]="product.price" [discount]="product.discount"></app-price-indicator>
+
+  <button class="add-cart-button bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" (click)="addToCart()">
+    Ajouter au panier
+  </button>
+</div>

@@ -1,0 +1,70 @@
+.product-card {
+  position: relative;
+  width: 300px;
+  height: fit-content;
+  padding: 10px;
+  margin: 0 26px 16px 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  font-size: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  overflow: hidden;
+}
+
+.promotion-indicator {
+  position: absolute;
+  background-color: #FFD700;
+  color: rgb(0, 0, 0);
+  left: -8px;
+  top: -4px;
+  padding: 6px 12px;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.favorite-button {
+  position: absolute;
+  top: 0;
+  right: 0px;
+}
+
+.image-container{
+  margin: 4px auto 16px auto;
+}
+
+img {
+  width: 180px;
+  height: 230px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title-container {
+  width: 100%;
+  height: 70px;
+}
+
+h3{
+  margin: 4px 0 8px 0;
+}
+
+.add-cart-button{
+  width: 100%;
+}
+
+.add-cart-button:hover{
+  cursor: pointer;
+}
+
+app-price-indicator {
+  width: 100%;
+}
+
+
+
+
+
+
