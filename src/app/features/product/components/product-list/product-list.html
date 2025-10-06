@@ -1,0 +1,7 @@
+<div class="product-list">
+  @for (product of products; track product) {
+    <app-product-card [product]="product"></app-product-card>
+  }
+  <p>Nombre de produits : {{products.length}}</p>
+  <p>Quantité de produits : {{ numberOfProducts | totalProductPipe: products }}</p>
+</div>

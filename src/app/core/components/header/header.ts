@@ -19,11 +19,11 @@ export class Header implements OnInit {
     this.items = [
       {
         label: 'Accueil',
-        url: '/',
+        url: '',
       },
       {
         label: 'Nos produits',
-        url: '/products',
+        url: 'products',
       },
       {
         label: 'A propos',
